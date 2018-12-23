@@ -1,7 +1,7 @@
 # 2018
 ## W50 12.16-12.22
 | 本周工作 | 
-<<<<<<< HEAD
+
 <div>
 <ol>
 <li>学习《Single Image Haze Removal Using Dark Channel Prior》论文，整理作者的逻辑</li>
@@ -13,13 +13,6 @@
 <li>看《Soccer Video Structure Analysis by Parallel Feature Fusion Network and Hidden-to-Observable Transferring Markov Model》论文</li>
 </ol>
 </div>
-
-=======
-| :- | 
-| 学习C3D模型的框架 |   
-| 看论文 |
-| 整理数据集| 
->>>>>>> e75b3cb927623fb2b541da42f3d9b0b21e0cde0d
 
 | 遇到的问题 | 
 <ol>
