@@ -4,7 +4,7 @@
 ### 本周工作
 <ol>
 <li>完成了57分钟视频的镜头标注</li>
-<li>学习了《Soccer Video Structure Analysis by Parallel Feature Fusion Network and Hidden-to-Observable Transferring Markov Model》论文， [https://mubu.com/doc/3SrFBrzJCa]("论文结构图"))</li>
+<li>学习了《Soccer Video Structure Analysis by Parallel Feature Fusion Network and Hidden-to-Observable Transferring Markov Model》论文，论文结构图： [https://mubu.com/doc/3SrFBrzJCa]</li>
 <li>收集足球视频分类方面的英文文献</li>
 <li>学习Python语法</li>
 </ol>
