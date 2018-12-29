@@ -1,4 +1,28 @@
 # 2018
+
+## W52 12.23-12.29
+### 本周工作
+<ol>
+<li>完成了57分钟视频的镜头标注</li>
+<li>学习了《Soccer Video Structure Analysis by Parallel Feature Fusion Network and Hidden-to-Observable Transferring Markov Model》论文，[https://mubu.com/doc/3SrFBrzJCa](https://mubu.com/doc/3SrFBrzJCa "论文结构图")</li>
+<li>收集足球视频分类方面的英文文献</li>
+<li>学习Python语法</li>
+</ol>
+
+### 遇到的问题 
+<ol>
+<li>由于从2017年开始，足球比赛采用了var技术（视频助理裁判），这种镜头不知道该怎么进行分类
+</li>
+![var镜头](https://pan.baidu.com/s/1zEz8_YpyvzieSqZzzS3OwQ)
+<li>由于在获取帧时，未将每一帧的分辨率进行修改，所以现在图片大小还是1080*720的尺寸，不知有什么好的办法能大批量的将图片尺寸进行修改</li>
+</ol>
+
+### 下周计划 
+<ol>
+<li>将图片尺寸修改为320*240大小，进行训练</li>
+<li>研读英文文献，学习他人的逻辑思路，搭建自己的论文框架</li>
+</ol>
+
 ## W51 12.16-12.22
 ### 本周工作 
 <ol>
