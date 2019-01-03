@@ -1,3 +1,7 @@
+- Git 实用小命令收集
+  http://www.importnew.com/30375.html
+
+
 - Happypeter - 搬进 GitHub  
   http://book.haoduoshipin.com/gitbeijing/
 
