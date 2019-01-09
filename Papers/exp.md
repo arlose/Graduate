@@ -19,3 +19,7 @@ https://wx2.sinaimg.cn/mw690/006BTu2sly1fyjsiur9k5j30v972ob2a.jpg
 [研究生新生要怎么看论文](https://www.zhihu.com/question/304334959)
 
 [学术英语写作专项课程系列](http://coursegraph.com/coursera-specializations-academic-english)
+
+[研究生文献综述简短指南：如何撰写文献综述，用思维导图整理想法、做笔记、批判性思维、避免常见错误并完善草稿](https://uq.edu.au/student-services/pdf/learning/lit-reviews-for-rx-students-v7.pdf)
+
+[保持(大)论文样式一致性：Word论文模版创建教程](https://services.anu.edu.au/files/DesigningStylesInWordTemplateWindowsVersion.pdf)
