@@ -1,4 +1,35 @@
 # 2019
+## W1 1.15-1.21
+### 本周工作
+<ol>
+<li>看基于C3D的视频分类相关论文，学习他人在基本C3D框架上的优化：https://mubu.com/doc/3FrtubNpu8 、https://mubu.com/doc/1QepOsIfD8 </li>
+<li>在GitHub上查找相关的代码</li>
+<li>整理英文文献通用句式
+ 摘要部分总结：
+We address the problem of……
+ This is a difficult task that requires…….
+We introduce……, which……….
+Our code is available at……
+
+总结部分：
+We introduce…….
+ We evaluate our approach on…… and demonstrate that it can……
+One future direction may be to…….
+</li>
+</ol>
+
+### 遇到的问题 
+<ol>
+<li>修改程序，找到合适的网络优化算法
+</li>
+</ol>
+
+### 下周计划 
+<ol>
+<li>修改程序，优化代码</li>
+</ol>
+
+...............................................................................
 ## W1 1.7-1.14
 ### 本周工作
 <ol>
