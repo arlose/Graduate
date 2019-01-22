@@ -20,7 +20,7 @@ One future direction may be to…….
 
 ### 遇到的问题 
 <ol>
-<li>修改程序，打印训练准确率
+<li>修改程序，找到合适的网络优化算法
 </li>
 </ol>
 
