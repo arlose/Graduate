@@ -1,4 +1,15 @@
 # 2019
+## W4 2.25-3.3
+| 本周工作 |
+| :-- |
+| 看了论文2015Video logo removal using iterative subsequent matching-Maryam Dashti，Cheng2018_Chapter_Large-ScaleVisibleWatermarkDet，2007Automatic TV Logo Detection, Tracking and Removal in Broadcast Video-Jinqiao Wang，并理解相关算法。|
+| 根据官方模板，开始构思小论文。|
+| 把automatic-watermark-detection进行修改，给出已知水印位置，继续运行此代码，运行成功。|
+
+| 遇到的问题 |
+| :-- |
+| |
+
 ## W3 1.14-1.19
 | 本周工作 |
 | :-- |
