@@ -1,4 +1,18 @@
 # 2019
+## W6 3.11-3.17
+| 本周工作 |
+| :-- |
+| 理解2017_An automatic visible watermark removal technique using image inpainting algorithms|
+|写小论文|
+
+| 遇到的问题 |
+| :-- |
+| |
+
+| 下周计划 |
+| :-- |
+| 理解论文，写小论文 |
+
 ## W5 3.4-3.10
 | 本周工作 |
 | :-- |
