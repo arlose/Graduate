@@ -1,4 +1,13 @@
 # 2019
+
+## 3. 5~ 3.24
+
+### 三周的工作
+<ol>将image caption的论文从2015~2018年整理了一下，还有2018年的十几篇没看，总体的方法可以分为：CNN+Attention+LSTM, CNN+LSTM, 引入检测模型的，将reinforce learning引入进来，CNN+一维CNN。
+</ol>
+### 下周工作
+<ol>完成剩余的image caption论文</ol>
+
 ## W9 ~ - 3.4 
 
 ### 本周工作
