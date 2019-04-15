@@ -1,5 +1,13 @@
 # 2019
 
+## 4.8 ~ 4.14
+### 本周工作
+<ol>把找到的一篇关于用transformer的image caption论文实现一下</ol>
+
+### 遇到的问题
+<ol> transformer在训练的时候好像一些层的梯度在后期的时候不变了，网络似乎没有在有效训练</ol>
+
+
 ## 4.1~4.7
 ### 本周工作
 <ol>1. transformer的image captions的代码可以训练了，但是loss值来回波动，没有减少的趋势，正在查找哪边出现问题了，2. image captions的思维导图正在完成，发现有些论文内容有点忘记了。</ol>
