@@ -1,4 +1,11 @@
 # 2019
+## W1 5.6-5.12
+| 本周工作 | 
+
+1.修改小论文
+2 阅读Automatic Temporally Coherent Video Colorization和Temporally Coherent GANs for Video Super-Resolution (TecoGAN)，并查阅这两个论文的相关参考文献，对其内容进行加深理解，并做ppt
+
+......................................................................................................
 ## W1 4.8-4.14
 | 本周工作 | 
 
