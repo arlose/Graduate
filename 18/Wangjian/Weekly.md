@@ -4,6 +4,7 @@
 ### 阶段性工作
 <ol> 把knowing when to look，sca-cnn训练了一下，
 </ol>
+
 ### 下周工作
 <ol>  找一些切入点
 </ol>
