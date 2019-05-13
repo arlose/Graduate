@@ -1,5 +1,13 @@
 # 2019
 
+##  ~ 5.12
+### 阶段性工作
+<ol> 把knowing when to look，sca-cnn训练了一下，
+</ol>
+### 下周工作
+<ol>  找一些切入点
+</ol>
+
 ## 4.8 ~ 4.14
 ### 本周工作
 <ol>把找到的一篇关于用transformer的image caption论文实现一下</ol>
