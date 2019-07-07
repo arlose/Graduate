@@ -1,4 +1,11 @@
 # 2019
+## W1 7.1-7.7
+| 本周工作 | 
+
+1.搜索GAN相关资料并回答问题。
+2 看论文Deep Flow-Guided Video Inpainting和Deep Blind Video Decaptioning by Temporal Aggregation and Recurrence等相关论文
+
+....................................................................................................
 ## W1 6.24-6.30
 | 本周工作 | 
 
